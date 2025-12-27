@@ -44,5 +44,5 @@ Console.WriteLine("*************************************************************
 
 int res = ds.Calculate(numsArray);
 
-Console.WriteLine("Сумма нечётных элементов массива = " + res);
+Console.WriteLine("Произведение нечётных элементов массива = " + res);
 Console.ReadKey();
