@@ -28,7 +28,7 @@ int[] numsArray = new int[len];
 
 for (int i = 0; i < len; i++)
 {
-    numsArray[i] = rnd.Next(2, 10);
+    numsArray[i] = rnd.Next(2, 9);
 }
 
 Console.WriteLine("Массив:");
