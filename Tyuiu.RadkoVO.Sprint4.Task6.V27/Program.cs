@@ -38,6 +38,6 @@ Console.WriteLine("* РЕЗУЛЬТАТ:                                        
 Console.WriteLine("***************************************************************************");
 
 int res = ds.Calculate(shapes);
-Console.WriteLine("Количество элементов длина которых < 7 = " + res);
+Console.WriteLine("Количество элементов длина которрых < 7 = " + res);
 
 Console.ReadKey();
